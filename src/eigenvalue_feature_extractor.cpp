@@ -6,7 +6,7 @@
 
 #include <pcl/common/centroid.h>  // pcl::compute3DCentroid
 #include <pcl/common/common.h>    // pcl::getMinMax3D
-#include <pcl/io/io.h>
+#include <pcl/common/io.h>
 #include <ros/ros.h>
 #include <Eigen/Core>
 #include <Eigen/Eigenvalues>  // Eigen::EigenSolver

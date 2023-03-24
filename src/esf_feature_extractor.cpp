@@ -4,7 +4,7 @@
  */
 #include "feature_extractors/esf_feature_extractor.hpp"
 
-#include <pcl/io/io.h>
+#include <pcl/common/io.h>
 #include <ros/ros.h>
 
 #include "common/time.hpp"  // common::Clock
